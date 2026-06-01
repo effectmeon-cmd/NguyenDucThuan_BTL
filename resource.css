@@ -154,3 +154,15 @@
             font-size: 12px;
             color: aqua;
         }
+
+        #sclink
+        {
+            font-size: 20px;
+            color: #df5f20;
+        }
+
+        #eslink
+        {
+            font-size: 20px;
+            color: #f73362;
+        }
